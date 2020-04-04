@@ -1,0 +1,2 @@
+rootProject.name='EVA2_8_SQLite3'
+include ':app'
